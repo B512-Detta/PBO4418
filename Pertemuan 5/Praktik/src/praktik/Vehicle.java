@@ -29,6 +29,6 @@ public class Vehicle {
     }
     public void GetSpeed(double newSpeed){
         speed = newSpeed;
-        System.out.println("Warna Kendaraan :  " +speed);
+        System.out.println("Kecepatan Kendaraan :  " +speed);
     }
 }
