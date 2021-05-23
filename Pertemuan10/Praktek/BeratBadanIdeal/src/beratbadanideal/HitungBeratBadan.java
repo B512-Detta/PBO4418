@@ -16,7 +16,7 @@ public class HitungBeratBadan {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        FrameBadanIdeal Laund = new FrameBadanIdeal();
-        Laund.setVisible(true);
+        FrameBadanIdeal berat = new FrameBadanIdeal();
+        berat.setVisible(true);
     }
 }
