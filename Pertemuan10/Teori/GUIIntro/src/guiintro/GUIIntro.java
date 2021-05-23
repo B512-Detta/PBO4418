@@ -16,6 +16,8 @@ public class GUIIntro {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        MainFrame x = new MainFrame();
+        x.setVisible(true);
     }
     
 }
