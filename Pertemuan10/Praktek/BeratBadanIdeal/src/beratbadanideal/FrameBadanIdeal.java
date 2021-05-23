@@ -11,7 +11,7 @@ package BeratBadanIdeal;
 public class FrameBadanIdeal extends javax.swing.JFrame {
     float tinggi, berat, hasil, hasil2, keadaanBdn; 
     /**
-     * Creates new form Frame_Badan_Ideal
+     * Creates new form FrameBadanIdeal
      */
     public FrameBadanIdeal() {
         initComponents();
