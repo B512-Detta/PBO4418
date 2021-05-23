@@ -6,7 +6,7 @@ package BeratBadanIdeal;
 
 /**
  *
- * @author Ardy Sendleep
+ * @author acer
  */
 public class HitungBeratBadan {
 
