@@ -6,7 +6,7 @@ package BeratBadanIdeal;
 
 /**
  *
- * @author Ardy Sendleep
+ * @author acer
  */
 public class FrameBadanIdeal extends javax.swing.JFrame {
     float tinggi, berat, hasil, hasil2, keadaanBdn; 
